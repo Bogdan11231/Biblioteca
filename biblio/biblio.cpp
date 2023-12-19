@@ -56,7 +56,7 @@ return 0;
  }
 
 
- void erase(int l)
+ void erade(int l)
  {int m=l;
     for(int j=0;j<i;j++)
  {
@@ -157,7 +157,7 @@ if(y==1)
     case 2:
 
         {cout<<endl<<"Identificator:";cin>>u;;
-        erase(u);;
+        erade(u);;
         break;}
 
     case 3:
